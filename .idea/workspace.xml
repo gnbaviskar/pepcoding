@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_5_countDigitsInNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_6_printDigitsInNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/_4_printAllFibNums2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWithBitM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LevelOne/_4_printAllFibNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/_4_printAllFibNums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,11 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/_6_printDigitsInNum.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
