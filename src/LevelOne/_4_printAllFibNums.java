@@ -4,6 +4,11 @@ public class _4_printAllFibNums {
     // solving fib using iterative method
     public static void main(String[] args) {
         int A = 8;
+
+        if (A==0) System.out.println(0);
+        if (A<=2) System.out.println(1);
+
+
         int n1 = 0;
         int n2 = 1;
         int fib = 1;
