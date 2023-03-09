@@ -27,12 +27,18 @@ public class _9_rotateNum2 {
 
             // make K positive
             K = K * (-1);
-            int leftNum = A % (int) Math.pow(10, (digitCounts - K));
-            leftNum = leftNum * (int) Math.pow(10, K);
-            ans += leftNum;
-            int rightNum = A / (int) Math.pow(10, digitCounts - K);
-            ans += rightNum;
-            System.out.println("ans: "+ans);
+            K = K % digitCounts;
+            if (K == 0) {
+                System.out.println(A);
+            } else {
+                int leftNum = A % (int) Math.pow(10, (digitCounts - K));
+                leftNum = leftNum * (int) Math.pow(10, K);
+                ans += leftNum;
+                int rightNum = A / (int) Math.pow(10, digitCounts - K);
+                ans += rightNum;
+                System.out.println("ans: "+ans);
+            }
+
 
         }
 
