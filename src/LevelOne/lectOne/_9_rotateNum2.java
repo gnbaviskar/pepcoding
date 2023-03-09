@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _9_rotateNum2 {
     public static void main(String[] args) {

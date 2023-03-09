@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _1_gradingSystem {
     public static void main(String[] args) {

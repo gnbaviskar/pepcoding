@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _11_primeFactor1 {
     public static void main(String[] args) {

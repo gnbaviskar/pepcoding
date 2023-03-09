@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 // My try: almost failed to solve this without using Array, Easy to solve using array
 // Issue with approach: suppose need to rotate 02540 by 2, it should be 40025, but seems failing, Instead this approach where we need to get power of 0 which is not doable at this time. we should cut the number by division and add using multiplication. check next file for the same

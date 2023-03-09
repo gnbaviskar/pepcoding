@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _7_reverseIntWoBitM {
     // DID NOT WORK, WRONG SOLUTION. THIS IDEA WORK WITH STRING REVERSE ONLY

@@ -5,11 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_10_gcm1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_10_lcm1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_11_primeFactor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_12_benjaminPuzzle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_1_patternOne1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_10_gcm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_10_gcm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_10_lcm1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_10_lcm1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_11_primeFactor1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_11_primeFactor1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_12_benjaminPuzzle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_12_benjaminPuzzle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_1_gradingSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_1_gradingSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_2_isPrimeNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_2_isPrimeNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_3_isPrimeAllNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_3_isPrimeAllNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_4_printAllFibNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_4_printAllFibNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_4_printAllFibNums2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_4_printAllFibNums2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_5_countDigitsInNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_5_countDigitsInNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_6_printDigitsInNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_6_printDigitsInNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWithBitM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_7_reverseIntWithBitM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_7_reverseIntWoBitM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_7_reverseIntWoBitM2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_8_inverseNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_8_inverseNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_9_rotateNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_9_rotateNum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/_9_rotateNum_final.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum_final.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +52,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -65,47 +82,47 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_6_printDigitsInNum.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_6_printDigitsInNum.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_7_reverseIntWoBitM.java</url>
           <line>19</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_9_rotateNum.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum.java</url>
           <line>19</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_9_rotateNum.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum.java</url>
           <line>23</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_9_rotateNum2.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum2.java</url>
           <line>44</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_9_rotateNum2.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum2.java</url>
           <line>28</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_10_gcm1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_10_gcm1.java</url>
           <line>15</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_10_gcm1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_10_gcm1.java</url>
           <line>26</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_11_primeFactor1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_11_primeFactor1.java</url>
           <line>17</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>

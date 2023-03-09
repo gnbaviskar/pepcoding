@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 import java.util.Scanner;
 public class _2_isPrimeNums {
