@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _5_countDigitsInNum {
     public static void main(String[] args) {

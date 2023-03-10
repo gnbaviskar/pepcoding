@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _4_printAllFibNums {
     // solving fib using iterative method

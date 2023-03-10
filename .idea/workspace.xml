@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/_8_inverseNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_6_patternSix1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_7_printDiagonals1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_8_diangonalLtoR1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_9_twoDoagnolaCross.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWithBitM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/_7_reverseIntWithBitM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +38,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
@@ -63,29 +68,69 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_6_printDigitsInNum.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_6_printDigitsInNum.java</url>
           <line>13</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_7_reverseIntWoBitM.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_7_reverseIntWoBitM.java</url>
           <line>19</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_8_inverseNum.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="10" />
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_8_inverseNum.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/_8_inverseNum.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum.java</url>
           <line>23</line>
-          <option name="timeStamp" value="12" />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum2.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_9_rotateNum2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_10_gcm1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_10_gcm1.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectOne/_11_primeFactor1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_1_patternOne1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive1.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive2.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_9_twoDoagnolaCross.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _7_reverseIntWoBitM2 {
     public static void main(String[] args) {

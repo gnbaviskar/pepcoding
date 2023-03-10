@@ -1,4 +1,4 @@
-package LevelOne;
+package LevelOne.lectOne;
 
 public class _8_inverseNum {
     public static void main(String[] args) {
