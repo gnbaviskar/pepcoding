@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_5_patternFive3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_6_patternSix1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_7_printDiagonals1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_8_diangonalLtoR1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_9_twoDoagnolaCross.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_16_patternSixteen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_16_patternSixteen2BetterApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_17_patternSeventeen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_18_patternEighteen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_19_patternNineteen1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_20_patternTwenty1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,6 +131,26 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_9_twoDoagnolaCross.java</url>
           <line>9</line>
           <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_11_patternEleven.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_12_patternTwelve.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_16_patternSixteen1.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_18_patternEighteen.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="41" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
