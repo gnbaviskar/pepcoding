@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_16_patternSixteen1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_16_patternSixteen2BetterApproach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_17_patternSeventeen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_18_patternEighteen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_19_patternNineteen1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_20_patternTwenty1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_1_digitfrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_2_decimalToAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -151,6 +149,21 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectTwoPatterns/_18_patternEighteen.java</url>
           <line>16</line>
           <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="47" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
