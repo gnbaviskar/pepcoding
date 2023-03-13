@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_1_digitfrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_2_decimalToAnyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_4_anyBaseToAnyBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -161,9 +164,39 @@
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="47" />
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

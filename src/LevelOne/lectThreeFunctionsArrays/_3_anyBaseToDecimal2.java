@@ -4,15 +4,16 @@ public class _3_anyBaseToDecimal2 {
 //    without carrying the power, using math
     public static int getValueInAnyBase (int n, int b) {
         int ans = 0;
-        int carry = 0;
+        int power = 1;
         while (n > 0) {
-            int rem = n % 10;
-            int power = (int)Math.pow(b, carry);
-            ans += rem * power;
-            carry++;
+            int remainder = n % 10;
+            int val = remainder * power;
+            ans += val;
+
             n = n / 10;
+            power = power * b;
         }
-        return ans;
+        return  ans;
     }
     public static void main(String[] args) {
 
