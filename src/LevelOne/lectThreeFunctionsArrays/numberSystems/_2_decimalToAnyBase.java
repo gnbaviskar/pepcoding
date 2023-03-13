@@ -1,4 +1,4 @@
-package LevelOne.lectThreeFunctionsArrays;
+package LevelOne.lectThreeFunctionsArrays.numberSystems;
 
 public class _2_decimalToAnyBase {
     public static int getValueInAnyBase (int n, int b) {

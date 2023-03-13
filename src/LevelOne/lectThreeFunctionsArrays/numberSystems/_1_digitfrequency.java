@@ -1,4 +1,4 @@
-package LevelOne.lectThreeFunctionsArrays;
+package LevelOne.lectThreeFunctionsArrays.numberSystems;
 
 public class _1_digitfrequency {
 

@@ -1,4 +1,4 @@
-package LevelOne.lectThreeFunctionsArrays;
+package LevelOne.lectThreeFunctionsArrays.numberSystems;
 
 public class _4_anyBaseToAnyBase {
     public static void main(String[] args) {
