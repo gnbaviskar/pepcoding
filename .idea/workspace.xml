@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_4_anyBaseToAnyBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_1_spanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_2_eleInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,49 +152,64 @@
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_3_anyBaseToDecimal1.java</url>
           <line>7</line>
           <option name="timeStamp" value="45" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_3_anyBaseToDecimal1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_3_anyBaseToDecimal1.java</url>
           <line>10</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_5_anyBaseAddition2.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_5_anyBaseAddition2.java</url>
           <line>20</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_6_anyBaseSubtraction1.java</url>
           <line>12</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_6_anyBaseSubtraction1.java</url>
           <line>37</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_6_anyBaseSubtraction2.java</url>
           <line>37</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_6_anyBaseSubtraction2.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_6_anyBaseSubtraction2.java</url>
           <line>29</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_7_anyBaseMultiplication1.java</url>
           <line>39</line>
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/_7_anyBaseMultiplication1.java</url>
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/numberSystems/_7_anyBaseMultiplication1.java</url>
           <line>38</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
