@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_1_spanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_2_eleInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_3_barChartOfAnArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_5_diffOfArrays1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,8 +205,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_4_sumOfTwoArrays1.java</url>
-          <line>17</line>
+          <line>31</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_5_diffOfArrays1.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="76" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

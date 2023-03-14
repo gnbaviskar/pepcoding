@@ -3,6 +3,20 @@ package LevelOne.lectThreeFunctionsArrays.intoToArrays;
 public class _4_sumOfTwoArrays1 {
     public static void main(String[] args) {
 
+//        Scanner scn = new Scanner(System.in);
+//
+//        int a1Inp = scn.nextInt();
+//        int[] a1 = new int[a1Inp];
+//        for (int i = 0; i < a1Inp; i++) {
+//            a1[i] = scn.nextInt();
+//        }
+//
+//        int a2Inp = scn.nextInt();
+//        int [] a2 = new int[a2Inp];
+//        for (int i = 0; i < a2Inp; i++) {
+//            a2[i] = scn.nextInt();
+//        }
+
         int[] a1 = new int[]{ 3, 1, 0, 7, 5 };
 
         int[] a2 = new int[]{ 1, 1, 1, 1, 1, 1 };
@@ -32,6 +46,7 @@ public class _4_sumOfTwoArrays1 {
             ind1--;
             ind2--;
         }
+        ans += carry * power;
         System.out.println(ans);
     }
 }
