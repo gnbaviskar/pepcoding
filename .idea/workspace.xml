@@ -5,17 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_10_searchInBinaryArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_1_twoDArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_2_matMultiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_3_stateOfWakanda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_4_spiralMatAntiClockWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_4_spiralMatClockWise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_5_exitPointOfMat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_6_rotateBy90Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_7_ringRotate1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_8_diagonalTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_9_saddlePrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_1_printDecreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_2_printIncreasing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_2_printIncreasing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_3_getFact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_4_getPowerLinear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_4_getPowerLogarithmic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_5_fibNumRecursive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_6_printZIgZag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_7_towerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_1_strSubstringsIterativerly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_1_strSubstringsRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_2_getKbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_3_getTheStairsRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_4_getMazePathsRecursively.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_5_getMazePathJumpsRec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_1_displayArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_1_displayArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_2_printArrDec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_3_printDecNInc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_4_getArrMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_5_firstOcc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_6_getLactOccIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_1_paliSubstrs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_2_strCompression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_3_stringLect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_4_toggleCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_6_permutationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectSix/DP/_1_fib.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -296,6 +315,46 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_10_searchInBinaryArr.java</url>
           <line>33</line>
           <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_2_strCompression.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_4_toggleCases.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_3_getFact.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_2_getKbc.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="117" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
