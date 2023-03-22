@@ -5,36 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_1_printDecreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_2_printIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_2_printIncreasing2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_3_getFact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_4_getPowerLinear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_4_getPowerLogarithmic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_5_fibNumRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_6_printZIgZag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_7_towerOfHanoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_1_strSubstringsIterativerly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_1_strSubstringsRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_2_getKbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_3_getTheStairsRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_4_getMazePathsRecursively.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_5_getMazePathJumpsRec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_1_displayArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_1_displayArr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_2_printArrDec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_3_printDecNInc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_4_getArrMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_5_firstOcc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrays/_6_getLactOccIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_1_paliSubstrs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_2_strCompression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_3_stringLect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_4_toggleCases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_6_permutationOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectSix/DP/_1_fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_1_printSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_2_printKBC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_3_printStairPaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_4_printMazePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_5_printPermutations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -355,6 +330,11 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_2_getKbc.java</url>
           <line>36</line>
           <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_5_printPermutations.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="121" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
