@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_10_binarySearchArr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_11_findFloorAndCeil1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_12_firstAndLastIndexEle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_12_firstAndLastIndexEle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_12_firstAndLastIndexEle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_13_subsetArr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_14_invertedBarChart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_6_reverseAnArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_7_revArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_8_inverseOfAnArray1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_9_printSubArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionBacktracking/_1_floodFill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionBacktracking/_2_targetSumSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectFive/RecursionBacktracking/_3_printQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -246,6 +238,106 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectThreeFunctionsArrays/intoToArrays/_14_invertedBarChart.java</url>
           <line>13</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_2_matMultiplication.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_2_matMultiplication.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_3_stateOfWakanda.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_3_stateOfWakanda.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_4_spiralMatClockWise.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_5_exitPointOfMat.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_6_rotateBy90Degree.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_10_searchInBinaryArr.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_10_searchInBinaryArr.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/twoDArray/_10_searchInBinaryArr.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_2_strCompression.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_4_toggleCases.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_5_diffEveryTwoConsecutives.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFour/StringsLectures/_7_removeOdds.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionIntro/_3_getFact.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionWithArrayList/_2_getKbc.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionOnTheWayUp/_5_printPermutations.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectFive/RecursionBacktracking/_2_targetSumSubset.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="123" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
