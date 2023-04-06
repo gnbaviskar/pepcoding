@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_10_preFixEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_11_celebrityProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_12_mergeIntervalPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_13_smallestpattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_14_smallestPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_14_smallestPattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_15_customStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_16_dynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_17_minimumStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_1_findDuplicasy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_2_isBalancedBrackes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_3_nextGreater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_4_stockSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_5_largestArHistogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_6_slidingWindowMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_7_infixEvaluation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_8_infixConversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_9_postFixEvaluation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_19_customQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_20_dynamicQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_21_queueToStackAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_22_twoStacksUsingOneArr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.DynamicStack.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-frame.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-tree.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -449,6 +442,21 @@
           <url>file://$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.java</url>
           <line>25</line>
           <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_20_dynamicQueue.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_20_dynamicQueue.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_20_dynamicQueue.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="228" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
