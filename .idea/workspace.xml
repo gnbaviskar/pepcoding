@@ -8,26 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_10_recursivePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_11_reverseLLrecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_12_reverseLLRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_14_foldLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_14_foldLLRecursive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_14_foldStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_15_addLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_1_ll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_2_llStackAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_3_llQueueAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_4_llMergeSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_5_mergeSortArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_6_mergeSortLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_6_mergeSortLL2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_6_mergeSortLL2GetMid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_7_removeDuplicatesInSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_8_oddEvenLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_9_k_reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_1_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_2_display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_3_sizeSumMaxHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_4_sizeSumMaxHeight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_5_traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_6_levelOrderPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_7_iterativePrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_8_nodeToRootPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,14 +40,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -534,10 +523,61 @@
           <line>55</line>
           <option name="timeStamp" value="267" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>399</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>528</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>545</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>539</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>587</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>616</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_1_.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_6_levelOrderPrinting.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_7_iterativePrinting.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
+        <PinnedItemInfo parentTag="LevelOne.lectEleven.GenericTree._1_$Node" memberName="children" />
         <PinnedItemInfo parentTag="LevelOne.lectTen.linkedList._1_ll$Node" memberName="next" />
       </pinned-members>
     </pin-to-top-manager>
