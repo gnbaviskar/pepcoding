@@ -8,16 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de910ab6-d87c-4e44-90fa-81dc47208eb3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_19_customQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_20_dynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_21_queueToStackAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectNine/stacks/_22_twoStacksUsingOneArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_1_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_2_display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_3_sizeSumMaxHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_4_sizeSumMaxHeight2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_5_traversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_6_levelOrderPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_7_iterativePrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_8_nodeToRootPath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.DynamicStack.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/_18_minimumStackConstantTimeConstantSpace.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-frame.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-summary.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LevelOne/lectNine/stacks/package-tree.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -458,8 +458,129 @@
           <line>27</line>
           <option name="timeStamp" value="228" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_1_ll.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_1_ll.java</url>
+          <line>240</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_4_llMergeSortedLL.java</url>
+          <line>163</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_5_mergeSortArr.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_6_mergeSortLL.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_1_ll.java</url>
+          <line>196</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_9_k_reverse.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_12_reverseLLRecursive.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome2.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_13_isPalindrome2.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectTen/linkedList/_14_foldStack.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>399</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>426</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>528</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>545</line>
+          <option name="timeStamp" value="297" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>539</line>
+          <option name="timeStamp" value="298" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>587</line>
+          <option name="timeStamp" value="299" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectEleven/GenericTree/_1_.java</url>
+          <line>616</line>
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_1_.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_6_levelOrderPrinting.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LevelOne/lectThirteen/BinaryTree/_7_iterativePrinting.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="LevelOne.lectEleven.GenericTree._1_$Node" memberName="children" />
+        <PinnedItemInfo parentTag="LevelOne.lectTen.linkedList._1_ll$Node" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
